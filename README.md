@@ -1,5 +1,3 @@
-# Cloudy-resume
-
 # Azure-resume
 
-My own azure reseume, folowing acf project video
+My own azure reseume, folowing ACG project video
